@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Laydyne provides a browser‑based AI‑assisted spatial modeling platform for architects, interior designers, facility managers and other space‑planning professionals. Users can create 2D and 3D models, edit them with AI, run route and clearance checks, simulate operations, and export results. The service offers free basic features and paid Pro/Max plans with advanced AI simulation and cloud storage.
+Laydyne provides AI‑powered floor‑plan and layout planning software that lets users create, simulate, and manage spaces using artificial intelligence. The platform supports 2D, 2.5D, and 3D modeling, enabling businesses such as factories, warehouses, retail stores, hospitals, and offices to optimize space utilization, workflow, and visitor experience. Features include AI‑driven design suggestions, real‑time simulation of people and robots, and integration with popular AI agents like ChatGPT, Claude, and custom MCP servers. Laydyne offers a free tier with unlimited modeling and paid plans for advanced analytics and enterprise support.
 
-**Areas:** AI · Spatial Modeling · Architecture · Facility Management · Simulation · Free · Paid Plans
+**Areas:** AI · FloorPlan · Simulation · SpaceManagement · Architecture
 
 ## Laydyne on APIs.io
 
@@ -74,7 +74,7 @@ Everything profiled for Laydyne is published on APIs.io rather than in this repo
 
 ### APIs (2)
 
-- [Laydyne API](https://apis.io/apis/laydyne-com/laydyne-api/) — Laydyne provides a browser‑based AI‑assisted spatial modeling platform with an API documented in the developer docs.
+- [Laydyne API](https://apis.io/apis/laydyne-com/laydyne-api/) — Laydyne API documented at https://laydyne.com/docs
 - [Laydyne API](https://apis.io/apis/laydyne-com/laydyne-com-api/) — Laydyne API as documented publicly: 2 operations. Contract generated from the documentation by API Evangelist (2026-11-15); not the provider's own document.
 
 ### Published properties
@@ -111,7 +111,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 37.7** — thin · rubric 0.28.0 · scored 2026-11-15
+**Kin Score 41.3** — developing · rubric 0.27.0 · scored 2026-11-15
 
 | Facet | Score |
 |---|---|
@@ -120,9 +120,9 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract governance | 79.1 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 9.5 |
-| Access clarity | 59.1 |
+| Access clarity | 73.2 |
 
-**Agent readiness 34.0** — agent-ready
+**Agent readiness 34.8** — agent-ready
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -146,10 +146,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Dynamic Client Registration | yes |
 | Agentic Commerce | — |
 | Pagination Ratio | na |
-| Operation Distinctiveness | — |
+| Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/laydyne-com/](https://apis.io/providers/laydyne-com/).
 
